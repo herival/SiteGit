@@ -34,9 +34,16 @@
 
         <hr class="col-md-6 mx-auto bd-dark">
 
-        <h2 class="mt-1 mx-auto display-4 text-center alert alert-info">Un autre paragraphe</h2>
+        <h2 class="mt-1 mx-auto display-4 text-center alert alert-info">CSS WEBKIT FILTER</h2>
 
 
+        <ul class="d-flex justify-content-center mb-1">
+            <li><img src="image/person_1.jpg" alt=""></li>
+            <li><img src="image/person_2.jpg" alt=""></li>
+            <li><img src="image/person_3.jpg" alt=""></li>
+            <li><img src="image/person_4.jpg" alt=""></li>
+        </ul>
+    
 
 
 
