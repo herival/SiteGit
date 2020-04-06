@@ -32,6 +32,14 @@
             </div>
         </form>
 
+        <hr class="col-md-6 mx-auto bd-dark">
+
+        <h2 class="mt-1 mx-auto display-4 text-center alert alert-info">Un autre paragraphe</h2>
+
+
+
+
+
     </div>
 
     
