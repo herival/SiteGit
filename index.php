@@ -12,6 +12,25 @@
 
         <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint, necessitatibus voluptatum dolorum, itaque dignissimos laboriosam possimus harum aliquam repellat voluptates provident commodi dolorem laborum. Eos officiis reiciendis veniam amet accusantium Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam amet eligendi perferendis optio molestiae autem possimus nulla illum mollitia doloribus rerum id, ipsam sit eius reprehenderit. Ab in obcaecati minima eaque qui voluptatem id, rerum totam asperiores vitae, error ipsa vero odio! In architecto eum harum accusamus! Quae, et consequatur?.</p>
 
+        <hr class="col-md-6 mx-auto bd-dark">
+
+        <h5 class="font-italic text-center">Commentaire sur le confinnement</h5>
+
+        <form class="col-md-8 mx-auto" method="post">
+            <div class="form-group">
+                <label for="exampleInputEmail1">Email</label>
+                <input type="email" class="form-control" id="email" aria-describedby="emailHelp" placeholder="Enter email">
+            </div>
+            <div class="form-group">
+                <label for="exampleInputEmail1">Message</label>
+                <textarea type="email" id="message" rows="5" class="form-control"></textarea>
+            </div>
+
+            <div>
+                 <button type="submit" class="btn btn-primary" >Envoyer</button>
+            </div>
+        </form>
+
     </div>
 
     
